@@ -1,6 +1,6 @@
 # custom-builder
 
-Below are the steps we need to follow to generate custom builder 
+Below are the steps we need to follow to generate custom builder \n
 ================ PYTHON ===============
 oc project mangalxshukla-intel
 cd C:\Users\mshuklax\GitHub\CustomBuilderImage\python-custom

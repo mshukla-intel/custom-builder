@@ -1,0 +1,4 @@
+This is openvino POC with builder-image extension.
+This message is from custom-python builder image built based on registry.access.redhat.com/ubi8/python-38 builder image.
+Please proceed...
+

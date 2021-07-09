@@ -1,6 +1,7 @@
 FROM registry.access.redhat.com/ubi8/python-38
-WORKDIR /app
-COPY . /app
+#WORKDIR /app
+#COPY . /app
+COPY . .
 #RUN pip3 install -r requirements.txt --no-cache-dir
 # USER root
 # RUN mkdir custom
